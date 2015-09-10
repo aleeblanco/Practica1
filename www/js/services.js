@@ -6,19 +6,19 @@ angular.module('starter.services', [])
   // Some fake testing data
   var chats = [{
     id: 0,
-    name: 'Ben Sparrow',
+    name: 'Janeth Valadez',
     lastText: 'You on your way?',
-    face: 'https://pbs.twimg.com/profile_images/514549811765211136/9SgAuHeY.png'
+    face: 'https://scontent-lax3-1.xx.fbcdn.net/hphotos-xtp1/v/t1.0-9/12006208_10204508295536702_3120195145328511434_n.jpg?oh=b84ba7e93b306fd895acf7ec0986ec27&oe=56A99DD5'
   }, {
     id: 1,
-    name: 'Max Lynx',
+    name: 'Arlenne Mota',
     lastText: 'Hey, it\'s me',
-    face: 'https://avatars3.githubusercontent.com/u/11214?v=3&s=460'
+    face: 'https://fbcdn-profile-a.akamaihd.net/hprofile-ak-xap1/v/t1.0-1/1907382_842463272477076_5419426880409256730_n.jpg?oh=43b5e3a023b99783e6d1a7d1acae1f87&oe=5662BA81&__gda__=1448964387_bc8a8bed03491f152148bba1d89ea2a1'
   }, {
     id: 2,
-    name: 'Adam Bradleyson',
+    name: 'Arely Valdes',
     lastText: 'I should buy a boat',
-    face: 'https://pbs.twimg.com/profile_images/479090794058379264/84TKj_qa.jpeg'
+    face: 'https://scontent-lax3-1.xx.fbcdn.net/hphotos-xaf1/v/t1.0-9/11390310_10202942223316124_6761803190300081432_n.jpg?oh=10ee16f8240f0d80d8d2b953d65e148a&oe=5664E99D'
   }, {
     id: 3,
     name: 'Perry Governor',
